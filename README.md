@@ -1,5 +1,5 @@
 # money-changer
 Money changer application using Java Swing
 
-Username : admin
-password : 123
+Username : anonimus
+password : 789
